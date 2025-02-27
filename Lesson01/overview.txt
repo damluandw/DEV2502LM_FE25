@@ -1,0 +1,13 @@
+1. Ngôn ngữ HTML/HTML5(3 buổi)
+
+2. CSS/CSS3 (1-2 buổi)
+
+3. Javascript (1 buổi)
+
+4. DOM/Jquery (2 buổi)
+
+5. Boostrap (1 buổi)
+
+6. Photoshop (1 buổi)
+
+7. Slick/ Dự án (2-3 buổi)
